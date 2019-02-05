@@ -1,5 +1,5 @@
-# nodejs-packages
-A collection of node packages bundled with webpack.
+# project-01
+A collaborative project for aspiring web developers. Node, Webpack, and React.
 
 # Usage
 1. Clone repo<br/>
